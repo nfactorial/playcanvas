@@ -1,5 +1,5 @@
 {
-  "name": "playcanvas",
+  "name": "@nfactorial/playcanvas",
   "version": "0.186.4",
   "description": "Packaged version of PlayCanvas engine for access via npm.",
   "main": "index.js",
