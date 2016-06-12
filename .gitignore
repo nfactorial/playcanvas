@@ -1,0 +1,7 @@
+# Mac cache information
+.DS_Store
+
+*.log
+
+# WebStorm IDE settings are local only
+.idea
