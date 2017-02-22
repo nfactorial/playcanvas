@@ -1,4 +1,4 @@
-PlayCanvas v0.186.4
+PlayCanvas v0.206.0
 ===================
 This repository simply contains the minified code for the PlayCanvas
 engine. I did not write PlayCanvas nor am I affiliated with it, I just
